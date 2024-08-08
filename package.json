@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start":node "index.html",
+    "start": "node index.html",
     "dev": "vite",
     "predeploy": "npm run build",
     "build": "vite build",

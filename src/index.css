@@ -8,5 +8,4 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background: linear-gradient(40deg,rgb(3, 109, 248),rgb(166, 166, 247));
 }

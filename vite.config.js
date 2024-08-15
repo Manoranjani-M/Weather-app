@@ -5,5 +5,6 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   base:"/deploy-Weather-app/",
   plugins: [react()],
-  build:{outDir:'dist',},
+  build:{
+    outDir:'dist',},
 });

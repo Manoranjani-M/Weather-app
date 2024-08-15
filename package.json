@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/Manoranjani-M/Weather-app.git",
-  "name": "my-vue-app",
+  "name": "weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",

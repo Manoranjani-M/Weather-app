@@ -1,7 +1,7 @@
 [build]
-command = "vite build"
-publish = "dist"
+  command = "vite build"
+  publish = "dist"
 [[redirects]]
-from="/*"
-to="/index.html"
-status=200
+  from = "/*"
+  to = "/index.html"
+  status = 200
